@@ -6,7 +6,7 @@ export var ROLL_SPEED = 100
 export var FRICTION = 500
 
 var velocity = Vector2.ZERO
-var roll_vector = Vector2.LEFT
+var roll_vector = Vector2.DOWN
 
 enum {
 	MOVE,
